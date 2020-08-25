@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1286 909" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0"><path d="M0,104.6V0H331V104.6Z"/></clipPath>
+<clipPath id="c1"><path d="M315.7,116.1V0h336V116.1Z"/></clipPath>
+<clipPath id="c2"><path d="M636.5,129.9V0h338V129.9Z"/></clipPath>
+<clipPath id="c3"><path d="M959.2,142.2V0h327.2V142.2Z"/></clipPath>
+<clipPath id="c4"><path d="M0,909V86H1285.6V909Z"/></clipPath>
+<clipPath id="c5"><path d="M0,106.1V0H1286.4V106.1Z"/></clipPath>
+<clipPath id="c6"><path d="M0,113.8V0H327.4V113.8Z"/></clipPath>
+<clipPath id="c7"><path d="M0,104.6V0H321.3V104.6Z"/></clipPath>
+<clipPath id="c8"><path d="M315.2,125.2V0h333V125.2Z"/></clipPath>
+<clipPath id="c9"><path d="M321.3,116.1V0H642V116.1Z"/></clipPath>
+<clipPath id="ca"><path d="M635.9,139.1V0h335V139.1Z"/></clipPath>
+<clipPath id="cb"><path d="M642,129.9V0H964.8V129.9Z"/></clipPath>
+<clipPath id="cc"><path d="M958.7,151.4V0h327.7V151.4Z"/></clipPath>
+<clipPath id="cd"><path d="M964.8,142.2V0h320.8V142.2Z"/></clipPath>
+<clipPath id="ce"><path d="M71.3,391.7v-102H497.7v102Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0{
+fill: #FFFFFF;
+}
+.g1{
+fill: #292C1B;
+}
+.g2{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.904;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+<path d="M120,0V1096H270V643H834v453H984V0H834V512H270V0Z"
+id="f0_a"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M581,127c0,0,137,0,196,79c0,0,37,50,37,121c0,0,0,119,-108,162c0,0,-57,23,-151,23H258V127ZM530,633c0,0,95,0,148,26c0,0,83,41,83,147c0,0,0,108,-88,145c0,0,-50,21,-148,21H258V633ZM112,0V1096H586c0,0,194,0,275,-115c0,0,48,-68,48,-157c0,0,0,-103,-59,-170c0,0,-30,-35,-88,-64c0,0,85,-32,126,-72c0,0,74,-72,74,-198c0,0,0,-106,-67,-192C895,128,796,0,578,0Z"
+id="f0_4"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M679,449L512,933L336,449ZM22,0L435,1096H603L1000,0H838L727,328H293L175,0Z"
+id="f0_3"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M560,-28c0,0,-279,0,-378,197c0,0,-55,109,-55,311v616H278V419c0,0,0,-120,45,-199c0,0,67,-119,225,-119c0,0,190,0,258,129c0,0,37,70,37,189v677H993V480c0,0,0,-202,-54,-311C939,169,838,-28,560,-28Z"
+id="f0_k"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M532,127c0,0,74,0,121,16c0,0,85,29,139,112c0,0,43,66,62,170c0,0,11,62,11,115c0,0,0,204,-79,316c0,0,-79,113,-255,113H273V127ZM123,0V1096H561c0,0,223,0,346,-160c0,0,110,-145,110,-371c0,0,0,-175,-65,-316C952,249,838,0,560,0Z"
+id="f0_6"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M151,0V1096H300V0Z"
+id="f0_b"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M604,100c0,0,196,0,284,140c0,0,88,141,88,324c0,0,0,194,-101,311c0,0,-101,118,-277,118c0,0,-170,0,-277,-116C321,877,213,760,213,532c0,0,0,-182,92,-307c0,0,92,-125,299,-125ZM587,-31c0,0,-253,0,-398,166C189,135,60,296,60,542c0,0,0,222,110,381c0,0,142,202,420,202c0,0,290,0,429,-186c0,0,109,-146,109,-372c0,0,0,-246,-124,-408c0,0,-147,-190,-417,-190Z"
+id="f0_f"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M558,-28c0,0,-277,0,-376,197c0,0,-55,109,-55,311v616H278V419c0,0,0,-120,44,-199c0,0,67,-119,224,-119c0,0,189,0,256,129c0,0,37,70,37,189v677H990v-95c0,0,12,0,26,3c0,0,36,3,65,14l8,4c0,0,4,2,8,6l-31,75l150,63l61,-148L1138,960c0,0,-73,-31,-144,-31c-1,0,-3,0,-4,0V480c0,0,0,-202,-55,-311C935,169,835,-28,558,-28Z"
+id="f1_a"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M532,127c0,0,74,0,121,16c0,0,85,29,139,112c0,0,43,66,62,170c0,0,11,62,11,115c0,0,0,204,-79,316c0,0,-79,113,-255,113H273V645H586V512H273V127ZM123,0V512H24V645h99v451H537c0,0,269,0,391,-187c0,0,89,-137,89,-343c0,0,0,-182,-69,-325C948,241,834,0,560,0Z"
+id="f1_8"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M679,449L512,933L336,449ZM22,0L435,1096H603L1000,0H838L727,328H293L175,0ZM263,1197c0,0,10,58,32,96c0,0,43,68,126,68c0,0,26,0,57,-7c0,0,31,-7,83,-30c0,0,21,-9,38,-14c0,0,17,-5,35,-5c0,0,42,0,60,26c0,0,9,14,13,42h79c0,0,-16,-94,-61,-130c0,0,-44,-36,-97,-36c0,0,-16,0,-42,6c0,0,-25,6,-44,13l-40,15c0,0,-35,12,-57,19c0,0,-22,6,-43,6c0,0,-26,0,-43,-17c0,0,-17,-17,-23,-52Z"
+id="f0_p"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M116,0V1096H291L838,210v886H980V0H813L258,886V0Z"
+id="f0_e"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M554,-28c0,0,-191,0,-329,125C225,97,74,255,74,531c0,0,0,276,147,438c0,0,140,155,362,155c0,0,152,0,263,-59c0,0,161,-86,197,-301H897c0,0,-27,120,-109,175c0,0,-83,54,-208,54c0,0,-149,0,-251,-114C329,879,227,765,227,539c0,0,0,-196,84,-318c0,0,84,-123,274,-123c0,0,145,0,241,86c0,0,95,87,97,279H580V587h481V0H966L930,140C930,140,856,58,798,26c0,0,-96,-54,-244,-54Z"
+id="f0_9"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M460,-222V-67H599V-222ZM679,449L512,933L336,449ZM22,0L435,1096H603L1000,0H838L727,328H293L175,0ZM282,1147l151,215H575L727,1147H605L504,1290L404,1147Z"
+id="f1_b"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M573,589c0,0,99,0,161,42c0,0,62,43,62,150c0,0,0,121,-89,165c0,0,-49,23,-134,23H280V589ZM131,0V1096H622c0,0,145,0,234,-82c0,0,90,-83,90,-232c0,0,0,-128,-80,-223c0,0,-80,-96,-244,-96H280V0Z"
+id="f0_g"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M394,0V965H24v131H914V965H545V0Z"
+id="f0_j"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M617,594c0,0,102,0,161,41c0,0,59,42,59,151c0,0,0,118,-83,161c0,0,-44,22,-118,22H283V594ZM134,0V1096H633c0,0,123,0,203,-37c0,0,152,-70,152,-259c0,0,0,-98,-41,-161c0,0,-41,-63,-114,-101c0,0,64,-26,97,-69c0,0,32,-42,36,-137l5,-147c0,0,2,-63,10,-93c0,0,14,-53,49,-68V0H847c0,0,-7,14,-11,36c0,0,-5,23,-8,87l-9,182c0,0,-5,108,-77,144c0,0,-42,20,-130,20H283V0Z"
+id="f0_h"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M679,449L512,933L336,449ZM22,0L435,1096H603L1000,0H838L727,328H293L175,0ZM499,1182L299,1398H465L601,1182Z"
+id="f0_o"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M138,0V1096H287V0Zm63,1182L1,1397H168L304,1182Z"
+id="f0_s"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M112,0V1096H325L640,169l312,927h212V0H1022V647c0,0,0,33,1,111c0,0,2,78,2,166L712,0H565L250,924V891c0,0,0,-40,2,-123c0,0,2,-82,2,-121V0Z"
+id="f0_d"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M438,0L39,1096H203L518,163l311,933H995L595,0Z"
+id="f0_l"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M131,0V1096H927V962H276V629H878V502H276V131H938V0Z"
+id="f0_7"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M553,-28c0,0,-189,0,-317,114C236,86,67,239,67,559c0,0,0,242,127,398c0,0,137,168,378,168c0,0,206,0,319,-109c0,0,113,-110,126,-249H872c0,0,-24,106,-96,167c0,0,-72,62,-203,62c0,0,-158,0,-256,-114c0,0,-98,-113,-98,-349c0,0,0,-192,88,-312c0,0,89,-120,264,-120c0,0,161,0,245,126c0,0,45,67,67,175h145c0,0,-20,-173,-127,-290C901,112,772,-28,553,-28Z"
+id="f0_5"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M151,0V1096H300V0ZM80,1180l136,215H382L183,1180Z"
+id="f0_r"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M446,0V442L31,1096H205L520,569l315,527h174L594,442V0Z"
+id="f0_m"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M497,-31c0,0,-199,0,-312,103C185,72,72,176,74,354H214c0,0,5,-94,42,-152c0,0,72,-109,251,-109c0,0,80,0,146,24c0,0,128,46,128,166c0,0,0,89,-54,127c0,0,-55,38,-172,65L411,509c0,0,-141,33,-199,72c0,0,-102,69,-102,205c0,0,0,148,100,243c0,0,99,94,282,94c0,0,167,0,284,-83c0,0,118,-83,118,-266H754c0,0,-11,88,-46,136c0,0,-65,85,-221,85c0,0,-126,0,-181,-55c0,0,-55,-55,-55,-128c0,0,0,-81,65,-118c0,0,43,-24,193,-60L658,599c0,0,108,-25,167,-69c0,0,101,-77,101,-224c0,0,0,-182,-129,-260c0,0,-129,-77,-300,-77Z"
+id="f0_i"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M131,0V1096H930V962H275V629H880V502H275V131H941V0ZM481,1172v57c0,0,45,4,69,26c0,0,24,22,24,47c0,0,0,14,-7,26c0,0,-8,13,-23,22c0,0,-11,8,-23,11c0,0,-11,3,-29,3c0,0,-18,0,-48,-4l-3,59c0,0,16,2,32,4c0,0,16,1,31,1c0,0,38,0,70,-12c0,0,32,-13,57,-48c0,0,7,-9,12,-25c0,0,5,-16,5,-34c0,0,0,-14,-5,-30c0,0,-4,-16,-16,-30c0,0,-11,-13,-30,-24c0,0,-19,-10,-47,-16l-3,-33Z"
+id="f1_c"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M131,0V1096H930V962H275V629H880V502H275V131H941V0ZM325,1182l151,216H618L770,1182H648L547,1326L446,1182Z"
+id="f0_q"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M131,0V1096H891V962H280V629H816V498H280V0Z"
+id="f0_8"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M116,0V1096H261V560l548,536h207L549,654L1027,0H832L440,551L261,382V0Z"
+id="f0_c"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M131,0V1096H930V962H275V629H880V502H275V131H941V0ZM307,1179l152,215H601l41,-58l132,207H939L740,1328H647L753,1179H630L530,1322L429,1179Z"
+id="f1_d"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M604,101c0,0,196,0,284,140c0,0,88,141,88,324c0,0,0,193,-101,311c0,0,-101,118,-277,118c0,0,-170,0,-277,-117C321,877,213,760,213,533c0,0,0,-182,92,-307c0,0,93,-125,299,-125ZM586,-31c0,0,-253,0,-397,166C189,135,60,296,60,542c0,0,0,223,110,381c0,0,142,203,419,203c0,0,291,0,430,-187c0,0,109,-145,109,-372c0,0,0,-245,-125,-408c0,0,-146,-190,-417,-190ZM372,1188l152,216H665L818,1188H695L595,1332L494,1188Zm354,138l136,215h166L829,1326Z"
+id="f1_f"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M604,101c0,0,196,0,284,140c0,0,88,141,88,324c0,0,0,193,-101,311c0,0,-101,118,-277,118c0,0,-170,0,-277,-117C321,877,213,760,213,533c0,0,0,-182,92,-307c0,0,93,-125,299,-125ZM586,-31c0,0,-253,0,-397,166C189,135,60,296,60,542c0,0,0,223,110,381c0,0,142,203,419,203c0,0,291,0,430,-187c0,0,109,-145,109,-372c0,0,0,-245,-125,-408c0,0,-146,-190,-417,-190ZM383,1212l151,216H676L828,1212H706L605,1355L504,1212Z"
+id="f0_t"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M484,-222V-67H624V-222ZM131,0V1096H930V962H275V629H880V502H275V131H941V0ZM295,1155l151,215H588L740,1155H618L517,1298L416,1155Z"
+id="f1_e"
+transform="scale(0.001,-0.001)"/>
+
+</defs>
+<path d="M0,0H1286.4V909H0Z" class="g0"/>
+<image clip-path="url(#c4)" preserveAspectRatio="none" x="-181" y="86" width="1645" height="823" xlink:href="img/1.jpg"/>
+<path clip-path="url(#c5)" d="M-1.4,104.6h1287V0H-1.4V104.6Z" class="g1"/>
+<image clip-path="url(#c6)" preserveAspectRatio="none" x="-4" y="-1" width="330" height="113" opacity="0.5" xlink:href="img/2.png"/>
+<image clip-path="url(#c7)" preserveAspectRatio="none" x="0" y="0" width="486" height="486" xlink:href="img/3.jpg"/>
+<image preserveAspectRatio="none" x="118" y="32" width="90" height="23" xlink:href="img/4.png"/>
+<g fill="#FFFFFF"  clip-path="url(#c0)">
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,118.9,48)"/>
+<use xlink:href="#f0_4" transform="matrix(12,0,0,12,132.1,48)"/>
+<use xlink:href="#f0_3" transform="matrix(12,0,0,12,144.3,48)"/>
+<use xlink:href="#f0_k" transform="matrix(12,0,0,12,156.6,48)"/>
+<use xlink:href="#f0_6" transform="matrix(12,0,0,12,169.8,48)"/>
+<use xlink:href="#f0_b" transform="matrix(12,0,0,12,183.1,48)"/>
+<use xlink:href="#f0_f" transform="matrix(12,0,0,12,188.1,48)"/>
+</g>
+<image preserveAspectRatio="none" x="72" y="50" width="180" height="28" xlink:href="img/5.png"/>
+<g fill="#292B1B"  clip-path="url(#c0)">
+<use xlink:href="#f1_a" transform="matrix(12,0,0,12,72.6,69.4)"/>
+<use xlink:href="#f0_k" transform="matrix(12,0,0,12,88.4,69.4)"/>
+<use xlink:href="#f1_8" transform="matrix(12,0,0,12,106.7,69.4)"/>
+<use xlink:href="#f0_p" transform="matrix(12,0,0,12,120,69.4)"/>
+<use xlink:href="#f0_b" transform="matrix(12,0,0,12,132.2,69.4)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,142.4,69.4)"/>
+<use xlink:href="#f0_9" transform="matrix(12,0,0,12,155.6,69.4)"/>
+<use xlink:href="#f1_b" transform="matrix(12,0,0,12,169.9,69.4)"/>
+<use xlink:href="#f0_g" transform="matrix(12,0,0,12,182.1,69.4)"/>
+<use xlink:href="#f0_j" transform="matrix(12,0,0,12,198.8,69.4)"/>
+<use xlink:href="#f0_h" transform="matrix(12,0,0,12,210,69.4)"/>
+<use xlink:href="#f0_o" transform="matrix(12,0,0,12,223.2,69.4)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,235.5,69.4)"/>
+</g>
+<path d="M118.9,49.5h83.5" class="g2"/>
+<image clip-path="url(#c8)" preserveAspectRatio="none" x="317" y="-1" width="330" height="125" opacity="0.5" xlink:href="img/6.png"/>
+<image clip-path="url(#c9)" preserveAspectRatio="none" x="321" y="0" width="321" height="116" xlink:href="img/7.png"/>
+<image preserveAspectRatio="none" x="394" y="34" width="177" height="26" xlink:href="img/8.png"/>
+<g fill="#FFFFFF"  clip-path="url(#c1)">
+<use xlink:href="#f0_4" transform="matrix(12,0,0,12,395.2,53.4)"/>
+<use xlink:href="#f0_s" transform="matrix(12,0,0,12,407.5,53.4)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,412.6,53.4)"/>
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,425.8,53.4)"/>
+<use xlink:href="#f0_d" transform="matrix(12,0,0,12,444.1,53.4)"/>
+<use xlink:href="#f0_b" transform="matrix(12,0,0,12,459.4,53.4)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,464.5,53.4)"/>
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,477.7,53.4)"/>
+<use xlink:href="#f0_3" transform="matrix(12,0,0,12,495.1,53.4)"/>
+<use xlink:href="#f0_l" transform="matrix(12,0,0,12,505.9,53.4)"/>
+<use xlink:href="#f0_j" transform="matrix(12,0,0,12,518.2,53.4)"/>
+<use xlink:href="#f0_7" transform="matrix(12,0,0,12,529.4,53.4)"/>
+<use xlink:href="#f0_5" transform="matrix(12,0,0,12,541.6,53.4)"/>
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,554.8,53.4)"/>
+</g>
+<image preserveAspectRatio="none" x="376" y="55" width="215" height="26" xlink:href="img/9.png"/>
+<g fill="#292B1B"  clip-path="url(#c1)">
+<use xlink:href="#f0_5" transform="matrix(12,0,0,12,376.9,74.8)"/>
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,390.1,74.8)"/>
+<use xlink:href="#f0_r" transform="matrix(12,0,0,12,403.4,74.8)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,408.5,74.8)"/>
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,421.7,74.8)"/>
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,440,74.8)"/>
+<use xlink:href="#f0_p" transform="matrix(12,0,0,12,453.3,74.8)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,465.5,74.8)"/>
+<use xlink:href="#f0_9" transform="matrix(12,0,0,12,478.8,74.8)"/>
+<use xlink:href="#f0_j" transform="matrix(12,0,0,12,497.8,74.8)"/>
+<use xlink:href="#f0_h" transform="matrix(12,0,0,12,509,74.8)"/>
+<use xlink:href="#f0_3" transform="matrix(12,0,0,12,522.2,74.8)"/>
+<use xlink:href="#f0_f" transform="matrix(12,0,0,12,534.4,74.8)"/>
+<use xlink:href="#f0_j" transform="matrix(12,0,0,12,553.5,74.8)"/>
+<use xlink:href="#f0_3" transform="matrix(12,0,0,12,563.3,74.8)"/>
+<use xlink:href="#f0_m" transform="matrix(12,0,0,12,574.2,74.8)"/>
+</g>
+<path d="M395.2,54.9H568.1" class="g2"/>
+<image clip-path="url(#ca)" preserveAspectRatio="none" x="637" y="-1" width="332" height="139" opacity="0.5" xlink:href="img/10.png"/>
+<image clip-path="url(#cb)" preserveAspectRatio="none" x="642" y="0" width="486" height="486" xlink:href="img/11.jpg"/>
+<image preserveAspectRatio="none" x="756" y="44" width="97" height="23" xlink:href="img/12.png"/>
+<g fill="#FFFFFF"  clip-path="url(#c2)">
+<use xlink:href="#f0_m" transform="matrix(12,0,0,12,759.1,60.8)"/>
+<use xlink:href="#f0_f" transform="matrix(12,0,0,12,771.3,60.8)"/>
+<use xlink:href="#f0_k" transform="matrix(12,0,0,12,785.6,60.8)"/>
+<use xlink:href="#f0_j" transform="matrix(12,0,0,12,798.8,60.8)"/>
+<use xlink:href="#f0_k" transform="matrix(12,0,0,12,810,60.8)"/>
+<use xlink:href="#f0_4" transform="matrix(12,0,0,12,823.3,60.8)"/>
+<use xlink:href="#f0_7" transform="matrix(12,0,0,12,835.5,60.8)"/>
+</g>
+<image preserveAspectRatio="none" x="726" y="63" width="157" height="26" xlink:href="img/13.png"/>
+<g fill="#292B1B"  clip-path="url(#c2)">
+<use xlink:href="#f0_5" transform="matrix(12,0,0,12,728,82.2)"/>
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,741.3,82.2)"/>
+<use xlink:href="#f0_b" transform="matrix(12,0,0,12,754.5,82.2)"/>
+<use xlink:href="#f0_3" transform="matrix(12,0,0,12,759.6,82.2)"/>
+<use xlink:href="#f0_i" transform="matrix(12,0,0,12,775.9,82.2)"/>
+<use xlink:href="#f1_c" transform="matrix(12,0,0,12,788.2,82.2)"/>
+<use xlink:href="#f1_8" transform="matrix(12,0,0,12,805.5,82.2)"/>
+<use xlink:href="#f0_3" transform="matrix(12,0,0,12,818.7,82.2)"/>
+<use xlink:href="#f0_d" transform="matrix(12,0,0,12,830.9,82.2)"/>
+<use xlink:href="#f0_d" transform="matrix(12,0,0,12,851.3,82.2)"/>
+<use xlink:href="#f0_q" transform="matrix(12,0,0,12,866.6,82.2)"/>
+</g>
+<path d="M759.1,62.2h88.6" class="g2"/>
+<image clip-path="url(#cc)" preserveAspectRatio="none" x="960" y="-1" width="330" height="151" opacity="0.5" xlink:href="img/14.png"/>
+<image clip-path="url(#cd)" preserveAspectRatio="none" x="965" y="0" width="486" height="485" xlink:href="img/15.jpg"/>
+<image preserveAspectRatio="none" x="1074" y="50" width="107" height="23" xlink:href="img/16.png"/>
+<g fill="#FFFFFF"  clip-path="url(#c3)">
+<use xlink:href="#f0_8" transform="matrix(12,0,0,12,1074.8,66.6)"/>
+<use xlink:href="#f0_3" transform="matrix(12,0,0,12,1085,66.6)"/>
+<use xlink:href="#f0_5" transform="matrix(12,0,0,12,1097.2,66.6)"/>
+<use xlink:href="#f0_7" transform="matrix(12,0,0,12,1110.4,66.6)"/>
+<use xlink:href="#f0_4" transform="matrix(12,0,0,12,1122.7,66.6)"/>
+<use xlink:href="#f0_f" transform="matrix(12,0,0,12,1134.9,66.6)"/>
+<use xlink:href="#f0_f" transform="matrix(12,0,0,12,1149.2,66.6)"/>
+<use xlink:href="#f0_c" transform="matrix(12,0,0,12,1163.4,66.6)"/>
+</g>
+<image preserveAspectRatio="none" x="1028" y="67" width="197" height="29" xlink:href="img/17.png"/>
+<g fill="#292B1B"  clip-path="url(#c3)">
+<use xlink:href="#f0_c" transform="matrix(12,0,0,12,1029.6,88)"/>
+<use xlink:href="#f1_d" transform="matrix(12,0,0,12,1041.8,88)"/>
+<use xlink:href="#f0_j" transform="matrix(12,0,0,12,1054.1,88)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,1070,88)"/>
+<use xlink:href="#f1_f" transform="matrix(12,0,0,12,1083.3,88)"/>
+<use xlink:href="#f0_b" transform="matrix(12,0,0,12,1097.5,88)"/>
+<use xlink:href="#f0_5" transform="matrix(12,0,0,12,1107.7,88)"/>
+<use xlink:href="#f0_t" transform="matrix(12,0,0,12,1121,88)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,1135.2,88)"/>
+<use xlink:href="#f0_9" transform="matrix(12,0,0,12,1148.5,88)"/>
+<use xlink:href="#f0_e" transform="matrix(12,0,0,12,1167.8,88)"/>
+<use xlink:href="#f0_9" transform="matrix(12,0,0,12,1181.1,88)"/>
+<use xlink:href="#f0_a" transform="matrix(12,0,0,12,1195.3,88)"/>
+<use xlink:href="#f1_e" transform="matrix(12,0,0,12,1208.6,88)"/>
+</g>
+<path d="M1074.8,68.1h100.8" class="g2"/>
+<image clip-path="url(#ce)" preserveAspectRatio="none" x="49" y="92" width="497" height="497" xlink:href="img/18.png"/>
+</svg>
